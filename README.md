@@ -1,4 +1,4 @@
-# cs-lab-project-three
+# Project 3 - SipSync
 
  Deliverable 1 feedback:
 - What we don't section is easy.
